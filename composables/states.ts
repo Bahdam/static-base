@@ -1,0 +1,1 @@
+export const useBrand = () => useState('brand', () => useAppConfig().brand);
