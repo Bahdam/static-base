@@ -1,8 +1,8 @@
 <template>
 	<nav>
 		<NuxtLink to="/">Home</NuxtLink>
-		<NuxtLink to="/test-1">Test 1</NuxtLink>
-		<NuxtLink to="/test-2">Test 2</NuxtLink>
+		<NuxtLink to="/">Test 1</NuxtLink>
+		<NuxtLink to="/">Test 2</NuxtLink>
 	</nav>
 </template>
 <style>
